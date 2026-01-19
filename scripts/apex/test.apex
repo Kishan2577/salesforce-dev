@@ -1,1 +1,1 @@
-new Demo1();
+Q54.AssignCase();
