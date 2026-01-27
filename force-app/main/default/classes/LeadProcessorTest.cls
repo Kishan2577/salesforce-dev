@@ -15,7 +15,7 @@ public with sharing class LeadProcessorTest {
             allLeads.add(led);
         }
 
-        insert allLeads;
+        insert allLeads;    
 
         Test.startTest();
         LeadProcessor leadPro = new LeadProcessor();
